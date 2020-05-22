@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Будильник таблеток</string>
+    <string name="nazvanie">Введите название лекарства</string>
+    <string name="this_is_message">This is message</string>
+    <string name="napomni">Напоминаний еще нет</string>
+    <string name="q">Будильник таблеток</string>
+    <string name="todo">TODO</string>
+</resources>
